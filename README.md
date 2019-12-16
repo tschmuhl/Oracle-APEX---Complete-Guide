@@ -11,10 +11,23 @@ Creating APEX applications is done through the browser based IDE called the "App
 An APEX Workspace can be acquired in 2 ways. The first being through the Oracle Cloud Free Tier and the alternatively through apex.oracle.com. I suggest you sign up through the Oracle Cloud Free tier as this allows you to take advantage of Autonomous Transaction Processing (ATP) and have mundane activities like database maintenance/cleanup, backup, security, and performance managed by Oracle. This will allow you to focus on developing high quality applications.
 
 ### Oracle Cloud Free Tier - Directions
-1. Sign up for an Oracle Cloud Free Tier using this [link](https://www.oracle.com/cloud/free/) to sign up. 
+1. Sign up for an Oracle Cloud Free Tier using this [link](https://www.oracle.com/cloud/free/)
       - If you already have a Cloud Account, sign in and skip to step #
 
 2. Click "Start for free"
 
 3. Enter a valid Email address and select your Country/Territory
  - pic
+ 
+ 4. Enter Account Details
+      - Account Type: Personal Use
+      - Cloud Account Name: Choose a name for your account
+      - Home Region: Select the closest Always Free region
+      - Enter in Name, Address, City, State, ZIP and Country and Mobile Number
+      - Click Next to Verify
+5. Enter in 6 Digit code for two-factor authentication
+6. Create a password
+7. Enter Credit Card information
+      - Credit Card information is used **only** to verify your identity
+      - You will **NEVER** be charged unless you upgrade to a paid account
+      - In this course we will never need to upgrade

@@ -6,11 +6,11 @@ Oracle APEX can be generically described as a low code web application developme
 
 Creating APEX applications is done through the browser based IDE called the "Application Builder". This is where you will use drag and drop functionality to build the basic layout of your application. You can also leverage the capabilities of CSS/HTML and JavaScript to give your application a visually stunning front end. And as this is an Oracle product, SQL and PL/SQL are fully integrated for all your data and database needs.
 
-## Getting Started - Creating an Account
+## Getting Started - Creating an Account & APEX Workspace
 
 An APEX Workspace can be acquired in 2 ways. The first being through the Oracle Cloud Free Tier and the alternatively through apex.oracle.com. I suggest you sign up through the Oracle Cloud Free Tier as this allows you to take advantage of Autonomous Transaction Processing (ATP) and have mundane activities like database maintenance/cleanup, backup, security, and performance managed by Oracle. This will allow you to focus on developing high quality applications.
 
-### Oracle Cloud Free Tier - Directions
+### Oracle Cloud Free Tier - Sign Up
 
 Please review the directions to sign up for an Oracle Cloud Free Tier account below or follow along with this video.
 
@@ -38,7 +38,7 @@ Please review the directions to sign up for an Oracle Cloud Free Tier account be
 
 #### Create ATP Instance
 
-### Alternative apex.oracle.com - Directions
+### Alternative apex.oracle.com - Sign Up
 If you do not want to sign up for Oracle Cloud Free Tier then you may sign up for a free workspace from [apex.oracle.com](https://www.apex.oracle.com). Please review the directions to create an account using apex.oracle.com or follow along with this video.
 
 1. Click "Get Started For Free"

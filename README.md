@@ -28,6 +28,8 @@ An APEX Workspace can be acquired in 2 ways. The first being through the Oracle 
 5. Enter in 6 Digit code for two-factor authentication
 6. Create a password
 7. Enter Credit Card information
-      - Credit Card information is used **only** to verify your identity
+      - Credit Card information is used **ONLY** to verify your identity
       - You will **NEVER** be charged unless you upgrade to a paid account
       - In this course we will never need to upgrade
+
+8. Complete sign up and create account

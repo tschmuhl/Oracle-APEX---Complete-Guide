@@ -8,7 +8,7 @@ Creating APEX applications is done through the browser based IDE called the "App
 
 ## Getting Started - Creating an Account
 
-An APEX Workspace can be acquired in 2 ways. The first being through the Oracle Cloud Free Tier and the alternatively through apex.oracle.com. I suggest you sign up through the Oracle Cloud Free tier as this allows you to take advantage of Autonomous Transaction Processing (ATP) and have mundane activities like database maintenance/cleanup, backup, security, and performance managed by Oracle. This will allow you to focus on developing high quality applications.
+An APEX Workspace can be acquired in 2 ways. The first being through the Oracle Cloud Free Tier and the alternatively through apex.oracle.com. I suggest you sign up through the Oracle Cloud Free Tier as this allows you to take advantage of Autonomous Transaction Processing (ATP) and have mundane activities like database maintenance/cleanup, backup, security, and performance managed by Oracle. This will allow you to focus on developing high quality applications.
 
 ### Oracle Cloud Free Tier - Directions
 1. Sign up for an Oracle Cloud Free Tier using this [link](https://www.oracle.com/cloud/free/)
@@ -30,6 +30,22 @@ An APEX Workspace can be acquired in 2 ways. The first being through the Oracle 
 7. Enter Credit Card information
       - Credit Card information is used **ONLY** to verify your identity
       - You will **NEVER** be charged unless you upgrade to a paid account
-      - In this course we will never need to upgrade
+      - In this course you will never need to upgrade
 
 8. Complete sign up and create account
+
+#### Create ATP Instance
+
+### Alternative apex.oracle.com - Directions
+If you do not want to sign up for Oracle Cloud Free Tier then you may sign up for a free workspace from [apex.oracle.com](https://www.apex.oracle.com)
+
+1. Click "Get Started For Free"
+2. Scroll down until you see "Request a Free Workspace"
+3. Enter Workspace Details
+      - First Name, Last Name, Email, Workspace
+4. Enter in Schema name
+5. Complete Survey
+6. Accept License Agreement
+7. Submit request
+8. You will recieve an email to create your workspace
+9. Sign into your workspace

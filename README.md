@@ -42,9 +42,9 @@ Please review the directions to sign up for an Oracle Cloud Free Tier account be
 2. Click on the "Autonomous Transaction Processing - Create a database"
 3. Leave the default settings and scroll down to create a password
 4. After creating password click "Create Autonomous Database"
-      - This is you admin password and used to create APEX Workspaces and manage you instance
+      - This is you admin password and used to create APEX Workspaces and manage your instance
 5. Wait for your database to be created and provisioned (1-2 min.)
-6. Your database is ready once ou see the green ATP logo
+6. Your database is ready once ou see the ATP logo turn green
 
 #### Create APEX Workspace
 

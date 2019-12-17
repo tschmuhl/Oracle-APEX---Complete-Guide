@@ -8,14 +8,14 @@ Creating APEX applications is done through the browser based IDE called the "App
 
 ## Getting Started - Creating an Account & APEX Workspace
 
-An APEX Workspace can be acquired in 2 ways. The first being through the Oracle Cloud Free Tier and the alternatively through apex.oracle.com. I suggest you sign up through the Oracle Cloud Free Tier as this allows you to take advantage of Autonomous Transaction Processing (ATP) and have mundane activities like database maintenance/cleanup, backup, security, and performance managed by Oracle. This will allow you to focus on developing high quality applications.
+An APEX Workspace can be acquired in 2 ways. The first being through the Oracle Cloud Free Tier and the alternatively through apex.oracle.com. I suggest you sign up through the Oracle Cloud Free Tier as this allows you to take advantage of Autonomous Transaction Processing (ATP). There are a few more steps to sign up with ATP but you get a lot more. First with ATP all the mundane activities like database maintenance/cleanup, backup, security, and performance managed by Oracle. This will allow you to focus on developing high quality applications. Second, with ATP you get access to SQL Developer and Oracle Machine Learning SQL Notebooks among other products.
 
 ### Oracle Cloud Free Tier - Sign Up
 
 Please review the directions to sign up for an Oracle Cloud Free Tier account below or follow along with this video.
 
 1. Sign up for an Oracle Cloud Free Tier using this [link](https://www.oracle.com/cloud/free/)
-      - If you already have a Cloud Account, sign in and skip to step #
+      - If you already have a Cloud Account, sign in and skip to [Create ATP Instance](#create-atp-instance)
 
 2. Click "Start for free"
 
@@ -37,6 +37,27 @@ Please review the directions to sign up for an Oracle Cloud Free Tier account be
 8. Complete sign up and create account
 
 #### Create ATP Instance
+
+1. Sign into your Oracle Cloud Account
+2. Click on the "Autonomous Transaction Processing - Create a database"
+3. Leave the default settings and scroll down to create a password
+4. After creating password click "Create Autonomous Database"
+      - This is you admin password and used to create APEX Workspaces and manage you instance
+5. Wait for your database to be created and provisioned (1-2 min.)
+6. Your database is ready once ou see the green ATP logo
+
+#### Create APEX Workspace
+
+1. Click on Service Console
+2. Click on Development
+3. Click Oracle APEX
+4. Login with the password you created above
+5. Click Create Workspace
+      - Database User: DEMO
+      - Password: Enter a password
+      - Workspace Name: DEMO
+6. Sign into your new workspace
+
 
 ### Alternative apex.oracle.com - Sign Up
 If you do not want to sign up for Oracle Cloud Free Tier then you may sign up for a free workspace from [apex.oracle.com](https://www.apex.oracle.com). Please review the directions to create an account using apex.oracle.com or follow along with this video.

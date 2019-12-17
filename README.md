@@ -15,7 +15,7 @@ An APEX Workspace can be acquired in 2 ways. The first being through the Oracle 
 Please review the directions to sign up for an Oracle Cloud Free Tier account below or follow along with this video.
 
 1. Sign up for an Oracle Cloud Free Tier using this [link](https://www.oracle.com/cloud/free/)
-      - If you already have a Cloud Account, sign in and skip to [Create ATP Instance](#create-atp-instance)
+      - If you already have a Cloud Account, sign in and skip to [create ATP instance](#create-atp-instance)
 
 2. Click "Start for free"
 

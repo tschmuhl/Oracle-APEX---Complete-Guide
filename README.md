@@ -8,7 +8,9 @@ Creating APEX applications is done through the browser based IDE called the "App
 
 ## Course Objectives
 
-This course is intended to give you a fully immersive experience into the world of Oracle APEX. Foremost, you will learn how to use and develop APEX applications from scratch, but that's not all. You will learn how to interact with the Oracle database using SQL and PL/SQL. Further modules will show you step-by-step how to use CSS and HTML to customize the look and feel of your applications. Each module will have a video lesson describing the topic in general and examples demonstrating use of the topic within APEX that you can follow along with. In the homework section of each module you will be tasked with applying the topic on your own and finally a short quiz to show assess whether you have mastered the topic or concept.
+This course is intended to give you a fully immersive experience into the world of Oracle APEX. Foremost, you will learn how to use and develop APEX applications from scratch, but that's not all. You will learn how to interact with the Oracle database using SQL and PL/SQL. Further modules will show you step-by-step how to use CSS and HTML to customize the look and feel of your applications. No prior experience with these tools is required.
+
+Each module will have a video lesson describing the topic in general and examples demonstrating use of the topic within APEX that you can follow along with. In the homework section of each module you will be tasked with applying the topic on your own and finally a short quiz to show assess whether you have mastered the topic or concept.
 
 My philosophy is that students learn best by real world application. So that is why in each module I give you an ample amount of exercises in the homework to practice on your own. As you practice try to think how you would want to apply the concept to an idea you have for an app or how could your business benefit from what you are learning. Relating what you have learned to something that is important to you is key skill that ensures you retain the new information.
 

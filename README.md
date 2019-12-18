@@ -8,7 +8,7 @@ Creating APEX applications is done through the browser based IDE called the "App
 
 ## Getting Started - Creating an Account & APEX Workspace
 
-An APEX Workspace can be acquired in 2 ways. The first being through the Oracle Cloud Free Tier and the alternatively through apex.oracle.com. I suggest you sign up through the Oracle Cloud Free Tier as this allows you to take advantage of Autonomous Transaction Processing (ATP). There are a few more steps to sign up with ATP but you get a lot more. First with ATP all the mundane activities like database maintenance/cleanup, backup, security, and performance managed by Oracle. This will allow you to focus on developing high quality applications. Second, with ATP you get access to SQL Developer and Oracle Machine Learning SQL Notebooks among other products.
+An APEX Workspace can be acquired in 2 ways. The first being through the Oracle Cloud Free Tier and the alternatively through apex.oracle.com. I suggest you sign up through the Oracle Cloud Free Tier as this allows you to take advantage of Autonomous Transaction Processing (ATP). There are a few more steps to sign up with ATP but you get a lot more. First with ATP all the mundane activities like database maintenance/cleanup, backup, security, and performance managed by Oracle. This will allow you to focus on developing high quality applications. Second, with ATP you get access to SQL Developer Web and Oracle Machine Learning SQL Notebooks among other products.
 
 ### Oracle Cloud Free Tier - Sign Up
 
@@ -48,15 +48,14 @@ Please review the directions to sign up for an Oracle Cloud Free Tier account be
 
 #### Create APEX Workspace
 
-1. Click on Service Console
-2. Click on Development
-3. Click Oracle APEX
-4. Login with the password you created above
-5. Click Create Workspace
+1. Click on Tools
+2. Click Open APEX
+3. Login with the password you created above
+4. Click Create Workspace
       - Database User: DEMO
       - Password: Enter a password
       - Workspace Name: DEMO
-6. Sign into your new workspace
+5. Sign into your new workspace
 
 
 ### Alternative apex.oracle.com - Sign Up
